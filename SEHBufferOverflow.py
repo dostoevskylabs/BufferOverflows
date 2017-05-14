@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# Easy File Sharing Web Server
 # Using ImageLoad.dll
 # Praise be to the shell!
 # Pretty much entirely based on ch3rn0byl's exploit
